@@ -4,4 +4,5 @@ using namespace std;
 int main()
 {
 	cout<<"Hi Git!"<<endl;
+	cout<<"modify"<<endl;
 }
